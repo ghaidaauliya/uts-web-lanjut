@@ -217,9 +217,13 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "Ghaida Fithriya Nurul Auliya"</h1>
+        <h1>About Me</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>
+			Nama saya <b>Sugih Pranata</b>,  
+                saya tinggal di Pamempeuk Baleendah Kabupaten Bandung, 
+                Sekarang saya bekerja bagian administrasi berkas rapat di Kota Bandung
+		</h2>
 
     </div>
 
@@ -227,14 +231,6 @@
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
